@@ -1,10 +1,10 @@
 ## Best Classification Model for Breast Cancer Prediction
 
 * ### This project looks for the best model performance from 12 classification models to diagnose breast cancer whether it is malignant cancer or benign cancer. The best model is the Support Vector Classifier (SVC) with Model Performance:
-  - #### Test Accuracy Score	: 0.9590643274853801
-  - #### Test Precision	: 0.9242424242424242
-  - #### Test Recall	: 0.9682539682539683
-  - #### Test ROC AUC Score	: 0.960978835978836
+  - ### Test Accuracy Score	: 0.9590643274853801
+  - ### Test Precision	: 0.9242424242424242
+  - ### Test Recall	: 0.9682539682539683
+  - ### Test ROC AUC Score	: 0.960978835978836
 
 ![1-Cover](https://user-images.githubusercontent.com/91950433/218282358-0659fcc4-a4af-4fef-b705-91a12f66b44e.png)
 
