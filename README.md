@@ -6,6 +6,10 @@
   - ### Test Recall	: 0.9682539682539683
   - ### Test ROC AUC Score	: 0.960978835978836
 
+* ### This project has been uploaded in a website portfolio as follows:
+  - #### https://bisa.ai/portofolio/detail/Nzkz
+  - #### https://centralai.id/portofolio/detail/50
+
 ![1-Cover](https://user-images.githubusercontent.com/91950433/218282358-0659fcc4-a4af-4fef-b705-91a12f66b44e.png)
 
 ### Data Understanding
